@@ -21,7 +21,7 @@ https://g1.globo.com/pop-arte/noticia/2024/05/07/brasil-e-3o-mercado-de-animes-f
 https://lealjunior.com.br/como-os-animes-romperam-a-bolha-e-viraram-fenomeno-no-brasil/
 https://www.tecmundo.com.br/mercado/413178-animes-no-brasil-sera-que-ainda-e-um-conteudo-de-nicho.htm
 
-Alguns prompst para testar a IA:
+Alguns prompts que preparei para testar a IA:
 Quando que chegaram os animes no Brasil ? 
 Qual foi o anime que mais conquistou o público brasileiro ? 
 Em qual mídia chegaram os primeiros animes no Brasil ? 
