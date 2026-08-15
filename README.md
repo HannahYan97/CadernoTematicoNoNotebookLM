@@ -30,5 +30,6 @@ Qual a plataforma oficial de exibição dos animes atualmente ?
 Qual é a faixa etária que mais consome anime atualmente ?
 O sucesso dos animes no Brasil pretende evoluir nos próximos anos ? 
 
-
+#Link do NotebookLM pronto
+https://notebook.google.com/notebook/42d5e72c-b274-4887-9066-4d10c41a802f 
 
