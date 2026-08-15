@@ -1,10 +1,10 @@
-# CadernoTematicoNoNotebookLM
+# Caderno Temático No NotebookLM
 
 Desafio de Projeto do módulo "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM" do curso da DIO de Primeiros Passos em Power BI.
 
 O desafio consiste em criar um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto, PDF ou video sobre um assunto de nosso interesse próprio. A partir desse material, são definidos objetivos de estudo, elaborando perguntas estratégicas e testes de variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
-Um rascunho do meu tema criado no NotebookLM
+# Rascunho do meu tema criado no NotebookLM
 
 Tema: O sucesso dos animes no Brasil 
 
